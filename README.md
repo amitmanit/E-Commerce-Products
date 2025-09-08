@@ -31,4 +31,6 @@ E-Commerce Product Page (Nov 2024) is a responsive web project that replicates a
 * Implement LocalStorage for product persistence.
 * Integrate with a backend API for dynamic product data.
 
+
+live host--https://amitmanit.github.io/E-Commerce-Products/
 -----
