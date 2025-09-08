@@ -3,7 +3,7 @@
 
 ### 📌 Overview
 
-E-Commerce Product Page (Nov 2024) is a responsive web project that replicates a modern shopping product page with interactive UI elements. The project demonstrates front-end development skills by building dynamic and visually appealing components using only **HTML, CSS, and Vanilla JavaScript**.
+E-Commerce Product Page  is a responsive web project that replicates a modern shopping product page with interactive UI elements. The project demonstrates front-end development skills by building dynamic and visually appealing components using only **HTML, CSS, and Vanilla JavaScript**.
 
 ---
 
