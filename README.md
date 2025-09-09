@@ -21,7 +21,7 @@ E-Commerce Product Page  is a responsive web project that replicates a modern sh
 
 * **HTML5**
 * **CSS3** (Flexbox, Grid, Animations)
-* **Vanilla JavaScript**
+* **JavaScript**
 
 ---
 
